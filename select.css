@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    font-size: 40px;
+    padding: 10px;
+    
+}
+#first{
+    border: 10px dashed rgb(41, 146, 143);
+    border-radius: 15px;
+    box-shadow: 20px 20px 5px rgb(15, 204, 252);
+}
+button{
+    margin: 40px;
+    padding: 30px;
+    background-color: blanchedalmond;
+    color: cadetblue;
+    font-size: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: beige;
+    color: rgb(12, 134, 138);
+}
